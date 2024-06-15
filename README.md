@@ -1,1 +1,3 @@
-# Boas-vindas à Amplexo Educação!
+# Boas-vindas ao Amplexo Educação!
+
+<img src="ursaamplexo.webp">
