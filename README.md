@@ -1,1 +1,1 @@
-# .github
+# Boas-vindas à Amplexo Educação!
